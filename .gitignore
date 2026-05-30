@@ -1,0 +1,117 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# =========================
+
+# Virtual Environments
+
+# =========================
+
+venv/
+.venv/
+env/
+ENV/
+
+# =========================
+
+# IDE / Editor
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+
+# Streamlit
+
+# =========================
+
+.streamlit/secrets.toml
+
+# =========================
+
+# Generated ML Artifacts
+
+# =========================
+
+outputs/models/*.pkl
+outputs/models/*.joblib
+
+# =========================
+
+# Generated Reports
+
+# =========================
+
+outputs/reports/*.docx
+outputs/reports/*.pdf
+
+# =========================
+
+# Generated CSV Outputs
+
+# =========================
+
+outputs/reports/*.csv
+
+# =========================
+
+# Generated Visualizations
+
+# =========================
+
+outputs/plots/*.png
+outputs/plots/*.jpg
+outputs/plots/*.jpeg
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+
+# =========================
+
+# Jupyter
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# Pytest
+
+# =========================
+
+.pytest_cache/
+
+# =========================
+
+# Coverage
+
+# =========================
+
+.coverage
+htmlcov/
+
