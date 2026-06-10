@@ -52,8 +52,8 @@ desktop.ini
 
 # =========================
 
-outputs/models/*.pkl
-outputs/models/*.joblib
+#outputs/models/*.pkl
+#outputs/models/*.joblib
 
 # =========================
 
@@ -61,8 +61,8 @@ outputs/models/*.joblib
 
 # =========================
 
-outputs/reports/*.docx
-outputs/reports/*.pdf
+#outputs/reports/*.docx
+#outputs/reports/*.pdf
 
 # =========================
 
@@ -78,9 +78,9 @@ outputs/reports/*.csv
 
 # =========================
 
-outputs/plots/*.png
-outputs/plots/*.jpg
-outputs/plots/*.jpeg
+#outputs/plots/*.png
+#outputs/plots/*.jpg
+#outputs/plots/*.jpeg
 
 # =========================
 
